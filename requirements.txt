@@ -1,0 +1,6 @@
+pygame==2.5.2
+pygame-widgets==1.1.5
+python-rtmidi==1.5.8
+pyftdi==0.55.0
+pyserial==3.5
+pyusb==1.2.1
